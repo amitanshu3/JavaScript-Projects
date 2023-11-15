@@ -1,0 +1,35 @@
+
+     @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Roboto:wght@100&display=swap');
+
+.text-center{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+.bg-red{
+  background-color: ;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+  flex-direction: column;
+}
+.button{
+  width: 66px;
+  padding: 20px;
+margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  
+}
+.row{
+  margin: 6px 0;
+}
+.row input{
+  font-size: 20px;
+  padding: 8px 28px;
+  border: 2px solid black;
+  border-radius: 6px;
+}
